@@ -1,0 +1,4 @@
+/Users/lululululluke/sig/poker_design/build/CMakeFiles/tests.dir
+/Users/lululululluke/sig/poker_design/build/CMakeFiles/test.dir
+/Users/lululululluke/sig/poker_design/build/CMakeFiles/edit_cache.dir
+/Users/lululululluke/sig/poker_design/build/CMakeFiles/rebuild_cache.dir
